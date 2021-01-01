@@ -85,7 +85,7 @@ input, select, textarea {
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
+		font-size: 13pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
@@ -194,6 +194,7 @@ input, select, textarea {
 	hr {
 		border: 0;
 		border-top: solid 1px #ddd;
+		padding: 0 !important;
 	}
 
 	blockquote {
@@ -202,7 +203,7 @@ input, select, textarea {
 		font-style: italic;
 	}
 
-	p, ul, ol, dl, table {
+	ul, ol, dl, table {
 		margin-bottom: 2em;
 	}
 
@@ -2241,7 +2242,7 @@ input, select, textarea {
 					}
 
 			#main > section.cover {
-				padding: 10em 0;
+				padding: 14em 0;
 				background-size: cover;
 				background-position: center center;
 			}
@@ -2270,7 +2271,7 @@ input, select, textarea {
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 17pt;
+				font-size: 13pt;
 			}
 
 		/* Header */
@@ -2304,7 +2305,7 @@ input, select, textarea {
 			}
 
 			#main section.cover {
-				padding: 5em 0;
+				padding: 14em 0;
 			}
 
 	}
@@ -2316,7 +2317,7 @@ input, select, textarea {
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 16pt;
+				font-size: 13pt;
 			}
 
 			.container {
@@ -2347,7 +2348,6 @@ input, select, textarea {
 			}
 
 			#nav ul li a {
-				font-size: 0.8em;
 				padding-top: 0.5em;
 				padding-bottom: 0.5em;
 			}
@@ -2391,7 +2391,7 @@ input, select, textarea {
 			}
 
 			body, input, textarea, select {
-				font-size: 16pt;
+				font-size: 13pt;
 			}
 
 			header br {
@@ -2570,7 +2570,7 @@ input, select, textarea {
 				}
 
 				#main section.cover {
-					padding: 4em 0;
+					padding: 14em 0;
 				}
 
 	}
